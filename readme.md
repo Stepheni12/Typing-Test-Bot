@@ -1,0 +1,1 @@
+Running this python script will open the 10FastFingers typing test and solve the test for you. The script requires that you have the chromedriver.exe file in the directory that you are running the script from in order for it to work.
